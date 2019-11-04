@@ -1,0 +1,17 @@
+D:\MyProject\BLL\bin\Debug\BLL.dll
+D:\MyProject\BLL\bin\Debug\BLL.pdb
+D:\MyProject\BLL\bin\Debug\Nexus.Model.dll
+D:\MyProject\BLL\bin\Debug\Repository.dll
+D:\MyProject\BLL\bin\Debug\Nexus.DatabaseContext.dll
+D:\MyProject\BLL\bin\Debug\EntityFramework.dll
+D:\MyProject\BLL\bin\Debug\Nexus.Model.pdb
+D:\MyProject\BLL\bin\Debug\Repository.pdb
+D:\MyProject\BLL\bin\Debug\Repository.dll.config
+D:\MyProject\BLL\bin\Debug\Nexus.DatabaseContext.pdb
+D:\MyProject\BLL\bin\Debug\Nexus.DatabaseContext.dll.config
+D:\MyProject\BLL\bin\Debug\EntityFramework.xml
+D:\MyProject\BLL\obj\Debug\Nexus.BLL.csprojAssemblyReference.cache
+D:\MyProject\BLL\obj\Debug\Nexus.BLL.csproj.CoreCompileInputs.cache
+D:\MyProject\BLL\obj\Debug\Nexus.BLL.csproj.CopyComplete
+D:\MyProject\BLL\obj\Debug\BLL.dll
+D:\MyProject\BLL\obj\Debug\BLL.pdb

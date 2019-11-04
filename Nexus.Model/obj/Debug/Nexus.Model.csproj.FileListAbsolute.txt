@@ -1,0 +1,6 @@
+D:\MyProject\Nexus.Model\bin\Debug\Nexus.Model.dll
+D:\MyProject\Nexus.Model\bin\Debug\Nexus.Model.pdb
+D:\MyProject\Nexus.Model\obj\Debug\Nexus.Model.csprojAssemblyReference.cache
+D:\MyProject\Nexus.Model\obj\Debug\Nexus.Model.csproj.CoreCompileInputs.cache
+D:\MyProject\Nexus.Model\obj\Debug\Nexus.Model.dll
+D:\MyProject\Nexus.Model\obj\Debug\Nexus.Model.pdb

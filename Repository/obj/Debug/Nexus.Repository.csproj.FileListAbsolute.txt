@@ -1,0 +1,17 @@
+D:\MyProject\Repository\bin\Debug\Repository.dll.config
+D:\MyProject\Repository\bin\Debug\Repository.dll
+D:\MyProject\Repository\bin\Debug\Repository.pdb
+D:\MyProject\Repository\bin\Debug\EntityFramework.dll
+D:\MyProject\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\MyProject\Repository\bin\Debug\Nexus.DatabaseContext.dll
+D:\MyProject\Repository\bin\Debug\Nexus.Model.dll
+D:\MyProject\Repository\bin\Debug\Nexus.DatabaseContext.pdb
+D:\MyProject\Repository\bin\Debug\Nexus.DatabaseContext.dll.config
+D:\MyProject\Repository\bin\Debug\Nexus.Model.pdb
+D:\MyProject\Repository\bin\Debug\EntityFramework.xml
+D:\MyProject\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\MyProject\Repository\obj\Debug\Nexus.Repository.csprojAssemblyReference.cache
+D:\MyProject\Repository\obj\Debug\Nexus.Repository.csproj.CoreCompileInputs.cache
+D:\MyProject\Repository\obj\Debug\Nexus.Repository.csproj.CopyComplete
+D:\MyProject\Repository\obj\Debug\Repository.dll
+D:\MyProject\Repository\obj\Debug\Repository.pdb
